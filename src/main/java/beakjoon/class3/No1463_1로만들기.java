@@ -16,7 +16,7 @@ package beakjoon.class3;
 
 import java.util.Scanner;
 
-public class No1463 {
+public class No1463_1로만들기 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();

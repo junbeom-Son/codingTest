@@ -18,7 +18,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class No1654 {
+public class No1654_랜선자르기 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int K = sc.nextInt(); // 오영식이 이미 가지고 있는 랜선의 개수

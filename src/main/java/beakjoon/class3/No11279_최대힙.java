@@ -13,7 +13,7 @@ import java.io.*;
 import java.util.Collections;
 import java.util.PriorityQueue;
 
-public class No11279 {
+public class No11279_최대힙 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());

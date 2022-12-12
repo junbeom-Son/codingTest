@@ -20,7 +20,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class No2805 {
+public class No2805_나무자르기 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         long N = sc.nextLong();

@@ -11,7 +11,7 @@ package beakjoon.class3;
 import java.io.*;
 import java.util.*;
 
-public class No1764 {
+public class No1764_듣보잡 {
     public static void main(String[] args) throws IOException {
         System.out.println("시작");
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

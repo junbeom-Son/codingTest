@@ -13,7 +13,7 @@ package beakjoon.class3;
 import java.io.*;
 import java.util.PriorityQueue;
 
-public class No1927 {
+public class No1927_최소힙 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());
